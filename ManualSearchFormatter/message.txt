@@ -1,0 +1,6021 @@
+{
+    "각성_5_축복의 오라_3_목걸이": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "146019012",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "방어력 감소": 3,
+                "특화": 478,
+                "신속": 496
+            },
+            "quality": 87,
+            "price": 210000,
+            "buyPrice": 210000,
+            "auctionPrice": 190000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 목걸이",
+            "id": "145466071",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "이동속도 감소": 3,
+                "특화": 481,
+                "신속": 491
+            },
+            "quality": 86,
+            "price": 240000,
+            "buyPrice": 240000,
+            "auctionPrice": 240000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 목걸이",
+            "id": "145906042",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "방어력 감소": 1,
+                "특화": 485,
+                "신속": 493
+            },
+            "quality": 89,
+            "price": 250000,
+            "buyPrice": 250000,
+            "auctionPrice": 250000
+        }
+    ],
+    "각성_5_축복의 오라_3_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 귀걸이",
+            "id": "146141125",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "공격력 감소": 1,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 110000,
+            "buyPrice": 110000,
+            "auctionPrice": 110000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "144682758",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "이동속도 감소": 2,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 130000,
+            "buyPrice": 130000,
+            "auctionPrice": 130000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "145930978",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "공격속도 감소": 3,
+                "신속": 300
+            },
+            "quality": 100,
+            "price": 180000,
+            "buyPrice": 180000,
+            "auctionPrice": 180000
+        }
+    ],
+    "각성_5_축복의 오라_3_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 귀걸이",
+            "id": "146141125",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "공격력 감소": 1,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 110000,
+            "buyPrice": 110000,
+            "auctionPrice": 110000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "144682758",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "이동속도 감소": 2,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 130000,
+            "buyPrice": 130000,
+            "auctionPrice": 130000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "145930978",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "공격속도 감소": 3,
+                "신속": 300
+            },
+            "quality": 100,
+            "price": 180000,
+            "buyPrice": 180000,
+            "auctionPrice": 180000
+        }
+    ],
+    "각성_5_축복의 오라_3_반지1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146094177",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "이동속도 감소": 3,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 50000,
+            "buyPrice": null,
+            "auctionPrice": 50000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145796665",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "이동속도 감소": 3,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 90000,
+            "buyPrice": 90000,
+            "auctionPrice": 90000
+        }
+    ],
+    "각성_5_축복의 오라_3_반지2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146094177",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "이동속도 감소": 3,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 50000,
+            "buyPrice": null,
+            "auctionPrice": 50000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145796665",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "각성": 5,
+                "이동속도 감소": 3,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 90000,
+            "buyPrice": 90000,
+            "auctionPrice": 90000
+        }
+    ],
+    "각성_3_전문의_5_목걸이": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145925361",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "특화": 454,
+                "신속": 486
+            },
+            "quality": 70,
+            "price": 77777,
+            "buyPrice": 77777,
+            "auctionPrice": 77777
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 목걸이",
+            "id": "146114221",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "특화": 458,
+                "신속": 497
+            },
+            "quality": 77,
+            "price": 80000,
+            "buyPrice": 80000,
+            "auctionPrice": 80000
+        }
+    ],
+    "각성_3_전문의_5_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145222629",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 2100,
+            "buyPrice": null,
+            "auctionPrice": 2100
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145929663",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 300
+            },
+            "quality": 100,
+            "price": 100000,
+            "buyPrice": null,
+            "auctionPrice": 100000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 귀걸이",
+            "id": "145671231",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "145883918",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 277
+            },
+            "quality": 61,
+            "price": 11000,
+            "buyPrice": 11000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145154193",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 11000,
+            "buyPrice": 11000,
+            "auctionPrice": 11000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146038110",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145722343",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "146060251",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 12600,
+            "buyPrice": 12600,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145992411",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 3,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 13000,
+            "buyPrice": 13000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145530026",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 1,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 20000,
+            "buyPrice": 20000,
+            "auctionPrice": 20000
+        }
+    ],
+    "각성_3_전문의_5_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145222629",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 2100,
+            "buyPrice": null,
+            "auctionPrice": 2100
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145929663",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 300
+            },
+            "quality": 100,
+            "price": 100000,
+            "buyPrice": null,
+            "auctionPrice": 100000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 귀걸이",
+            "id": "145671231",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "145883918",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 277
+            },
+            "quality": 61,
+            "price": 11000,
+            "buyPrice": 11000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145154193",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 11000,
+            "buyPrice": 11000,
+            "auctionPrice": 11000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146038110",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145722343",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "146060251",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 12600,
+            "buyPrice": 12600,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145992411",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 3,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 13000,
+            "buyPrice": 13000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145530026",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 1,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 20000,
+            "buyPrice": 20000,
+            "auctionPrice": 20000
+        }
+    ],
+    "각성_3_전문의_5_반지1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145799026",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 20000,
+            "buyPrice": null,
+            "auctionPrice": 20000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146168103",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 3,
+                "신속": 182
+            },
+            "quality": 55,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145707553",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145853692",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146097072",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146174968",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 반지",
+            "id": "145827168",
+            "grade": 5,
+            "tradeLeft": 0,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격력 감소": 2,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 13000,
+            "buyPrice": 13000,
+            "auctionPrice": 11000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145747773",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 182
+            },
+            "quality": 55,
+            "price": 15000,
+            "buyPrice": 15000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146032569",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 15000,
+            "buyPrice": 15000,
+            "auctionPrice": 15000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146151040",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 15000,
+            "buyPrice": 15000,
+            "auctionPrice": 15000
+        }
+    ],
+    "각성_3_전문의_5_반지2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145799026",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 20000,
+            "buyPrice": null,
+            "auctionPrice": 20000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146168103",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 3,
+                "신속": 182
+            },
+            "quality": 55,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145707553",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145853692",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146097072",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146174968",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 반지",
+            "id": "145827168",
+            "grade": 5,
+            "tradeLeft": 0,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격력 감소": 2,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 13000,
+            "buyPrice": 13000,
+            "auctionPrice": 11000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145747773",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 182
+            },
+            "quality": 55,
+            "price": 15000,
+            "buyPrice": 15000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146032569",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 15000,
+            "buyPrice": 15000,
+            "auctionPrice": 15000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146151040",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 15000,
+            "buyPrice": 15000,
+            "auctionPrice": 15000
+        }
+    ],
+    "축복의 오라_3_급소 타격_5_목걸이": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 목걸이",
+            "id": "145795516",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "이동속도 감소": 1,
+                "특화": 467,
+                "신속": 488
+            },
+            "quality": 77,
+            "price": 100000,
+            "buyPrice": null,
+            "auctionPrice": 100000
+        }
+    ],
+    "축복의 오라_3_급소 타격_5_귀걸이1": [],
+    "축복의 오라_3_급소 타격_5_귀걸이2": [],
+    "축복의 오라_3_급소 타격_5_반지1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146037792",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "방어력 감소": 2,
+                "신속": 182
+            },
+            "quality": 55,
+            "price": 80000,
+            "buyPrice": 80000,
+            "auctionPrice": 80000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "146141792",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "공격속도 감소": 2,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 109900,
+            "buyPrice": 109900,
+            "auctionPrice": 109900
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146088609",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "이동속도 감소": 3,
+                "신속": 188
+            },
+            "quality": 70,
+            "price": 110000,
+            "buyPrice": 110000,
+            "auctionPrice": 90000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "146088530",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "방어력 감소": 3,
+                "신속": 199
+            },
+            "quality": 97,
+            "price": 120000,
+            "buyPrice": 120000,
+            "auctionPrice": 100000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145979177",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "공격속도 감소": 1,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 149999,
+            "buyPrice": 149999,
+            "auctionPrice": 120000
+        }
+    ],
+    "축복의 오라_3_급소 타격_5_반지2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146037792",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "방어력 감소": 2,
+                "신속": 182
+            },
+            "quality": 55,
+            "price": 80000,
+            "buyPrice": 80000,
+            "auctionPrice": 80000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "146141792",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "공격속도 감소": 2,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 109900,
+            "buyPrice": 109900,
+            "auctionPrice": 109900
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146088609",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "이동속도 감소": 3,
+                "신속": 188
+            },
+            "quality": 70,
+            "price": 110000,
+            "buyPrice": 110000,
+            "auctionPrice": 90000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "146088530",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "방어력 감소": 3,
+                "신속": 199
+            },
+            "quality": 97,
+            "price": 120000,
+            "buyPrice": 120000,
+            "auctionPrice": 100000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145979177",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "축복의 오라": 3,
+                "급소 타격": 5,
+                "공격속도 감소": 1,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 149999,
+            "buyPrice": 149999,
+            "auctionPrice": 120000
+        }
+    ],
+    "구슬동자_3_급소 타격_5_목걸이": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "146205224",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "특화": 473,
+                "신속": 476
+            },
+            "quality": 74,
+            "price": 30000,
+            "buyPrice": 30000,
+            "auctionPrice": 30000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 목걸이",
+            "id": "146147366",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "특화": 488,
+                "신속": 497
+            },
+            "quality": 92,
+            "price": 55000,
+            "buyPrice": 55000,
+            "auctionPrice": 45000
+        }
+    ],
+    "구슬동자_3_급소 타격_5_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145928797",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 80,
+            "buyPrice": 80,
+            "auctionPrice": 80
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 귀걸이",
+            "id": "145601259",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 292
+            },
+            "quality": 86,
+            "price": 150,
+            "buyPrice": 150,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "145568838",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 291
+            },
+            "quality": 85,
+            "price": 300,
+            "buyPrice": 300,
+            "auctionPrice": 300
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145113927",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 1
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145922519",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 귀걸이",
+            "id": "145905737",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 288
+            },
+            "quality": 80,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 800
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145833806",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "144233059",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 귀걸이",
+            "id": "145347520",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 284
+            },
+            "quality": 73,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145281746",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 4500,
+            "buyPrice": 4500,
+            "auctionPrice": 4500
+        }
+    ],
+    "구슬동자_3_급소 타격_5_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145928797",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 80,
+            "buyPrice": 80,
+            "auctionPrice": 80
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 귀걸이",
+            "id": "145601259",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 292
+            },
+            "quality": 86,
+            "price": 150,
+            "buyPrice": 150,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "145568838",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 291
+            },
+            "quality": 85,
+            "price": 300,
+            "buyPrice": 300,
+            "auctionPrice": 300
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145113927",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 1
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145922519",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 귀걸이",
+            "id": "145905737",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 288
+            },
+            "quality": 80,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 800
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145833806",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "144233059",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 귀걸이",
+            "id": "145347520",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 284
+            },
+            "quality": 73,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145281746",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 4500,
+            "buyPrice": 4500,
+            "auctionPrice": 4500
+        }
+    ],
+    "구슬동자_3_급소 타격_5_반지1": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 반지",
+            "id": "145812645",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "방어력 감소": 1,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 50,
+            "buyPrice": 50,
+            "auctionPrice": 50
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145507271",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 1,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 50,
+            "buyPrice": 50,
+            "auctionPrice": 50
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "144233410",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145761582",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145853421",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 192
+            },
+            "quality": 80,
+            "price": 900,
+            "buyPrice": 900,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 반지",
+            "id": "145806510",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "144810407",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 1,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "144877191",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "146058743",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 20000,
+            "buyPrice": 20000,
+            "auctionPrice": 15000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146170936",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 20000,
+            "buyPrice": 20000,
+            "auctionPrice": 20000
+        }
+    ],
+    "구슬동자_3_급소 타격_5_반지2": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 반지",
+            "id": "145812645",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "방어력 감소": 1,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 50,
+            "buyPrice": 50,
+            "auctionPrice": 50
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145507271",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 1,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 50,
+            "buyPrice": 50,
+            "auctionPrice": 50
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "144233410",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145761582",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145853421",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 192
+            },
+            "quality": 80,
+            "price": 900,
+            "buyPrice": 900,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 반지",
+            "id": "145806510",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "144810407",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 1,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "144877191",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "146058743",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 20000,
+            "buyPrice": 20000,
+            "auctionPrice": 15000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146170936",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 20000,
+            "buyPrice": 20000,
+            "auctionPrice": 20000
+        }
+    ],
+    "전문의_3_급소 타격_5_목걸이": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145888277",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "특화": 496,
+                "신속": 482
+            },
+            "quality": 89,
+            "price": 50000,
+            "buyPrice": 50000,
+            "auctionPrice": 40000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 목걸이",
+            "id": "146139598",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "특화": 494,
+                "신속": 494
+            },
+            "quality": 94,
+            "price": 79000,
+            "buyPrice": 79000,
+            "auctionPrice": 78000
+        }
+    ],
+    "전문의_3_급소 타격_5_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "146112404",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격속도 감소": 3,
+                "신속": 277
+            },
+            "quality": 61,
+            "price": 500,
+            "buyPrice": null,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "146112872",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 282
+            },
+            "quality": 70,
+            "price": 3150,
+            "buyPrice": null,
+            "auctionPrice": 3150
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145942962",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 777,
+            "buyPrice": 777,
+            "auctionPrice": 777
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "146111670",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 900,
+            "buyPrice": 900,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145819653",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 900,
+            "buyPrice": 900,
+            "auctionPrice": 900
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145635732",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 1900,
+            "buyPrice": 1900,
+            "auctionPrice": 1900
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 귀걸이",
+            "id": "145908433",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 1,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "145676698",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 2500,
+            "buyPrice": 2500,
+            "auctionPrice": 2500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 귀걸이",
+            "id": "146006252",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 3,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 귀걸이",
+            "id": "146002403",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 5500,
+            "buyPrice": 5500,
+            "auctionPrice": 5000
+        }
+    ],
+    "전문의_3_급소 타격_5_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "146112404",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격속도 감소": 3,
+                "신속": 277
+            },
+            "quality": 61,
+            "price": 500,
+            "buyPrice": null,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "146112872",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 282
+            },
+            "quality": 70,
+            "price": 3150,
+            "buyPrice": null,
+            "auctionPrice": 3150
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145942962",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 777,
+            "buyPrice": 777,
+            "auctionPrice": 777
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "146111670",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 900,
+            "buyPrice": 900,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145819653",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 900,
+            "buyPrice": 900,
+            "auctionPrice": 900
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145635732",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 1900,
+            "buyPrice": 1900,
+            "auctionPrice": 1900
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 귀걸이",
+            "id": "145908433",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 1,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "145676698",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 2500,
+            "buyPrice": 2500,
+            "auctionPrice": 2500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 귀걸이",
+            "id": "146006252",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 3,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 귀걸이",
+            "id": "146002403",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 5500,
+            "buyPrice": 5500,
+            "auctionPrice": 5000
+        }
+    ],
+    "전문의_3_급소 타격_5_반지1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145821964",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 3,
+                "신속": 198
+            },
+            "quality": 95,
+            "price": 1,
+            "buyPrice": null,
+            "auctionPrice": 1
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146181408",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 1999,
+            "buyPrice": null,
+            "auctionPrice": 1999
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "144202051",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 3,
+                "신속": 198
+            },
+            "quality": 95,
+            "price": 10000,
+            "buyPrice": null,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "144656417",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146092179",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격속도 감소": 1,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 1800,
+            "buyPrice": 1800,
+            "auctionPrice": 1800
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145914398",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145922642",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "144640910",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146132406",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 2,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 반지",
+            "id": "146213825",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 2,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 2500,
+            "buyPrice": 2500,
+            "auctionPrice": 2000
+        }
+    ],
+    "전문의_3_급소 타격_5_반지2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145821964",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 3,
+                "신속": 198
+            },
+            "quality": 95,
+            "price": 1,
+            "buyPrice": null,
+            "auctionPrice": 1
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146181408",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 1999,
+            "buyPrice": null,
+            "auctionPrice": 1999
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "144202051",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격력 감소": 3,
+                "신속": 198
+            },
+            "quality": 95,
+            "price": 10000,
+            "buyPrice": null,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "144656417",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146092179",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "공격속도 감소": 1,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 1800,
+            "buyPrice": 1800,
+            "auctionPrice": 1800
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145914398",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145922642",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "144640910",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146132406",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "이동속도 감소": 2,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 반지",
+            "id": "146213825",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "전문의": 3,
+                "방어력 감소": 2,
+                "신속": 189
+            },
+            "quality": 72,
+            "price": 2500,
+            "buyPrice": 2500,
+            "auctionPrice": 2000
+        }
+    ],
+    "각성_3_급소 타격_5_목걸이": [
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 목걸이",
+            "id": "145812784",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "특화": 462,
+                "신속": 487
+            },
+            "quality": 74,
+            "price": 39999,
+            "buyPrice": 39999,
+            "auctionPrice": 39999
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 목걸이",
+            "id": "145963984",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 3,
+                "특화": 491,
+                "신속": 454
+            },
+            "quality": 72,
+            "price": 40000,
+            "buyPrice": 40000,
+            "auctionPrice": 40000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 목걸이",
+            "id": "145690367",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "특화": 469,
+                "신속": 478
+            },
+            "quality": 73,
+            "price": 45000,
+            "buyPrice": 45000,
+            "auctionPrice": 40000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "146192393",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "특화": 486,
+                "신속": 494
+            },
+            "quality": 90,
+            "price": 75000,
+            "buyPrice": 75000,
+            "auctionPrice": 65000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "146127819",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "특화": 500,
+                "신속": 485
+            },
+            "quality": 92,
+            "price": 80000,
+            "buyPrice": 80000,
+            "auctionPrice": 70000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 목걸이",
+            "id": "145824014",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "특화": 492,
+                "신속": 494
+            },
+            "quality": 93,
+            "price": 95000,
+            "buyPrice": 95000,
+            "auctionPrice": 75000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145542603",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 2,
+                "특화": 498,
+                "신속": 493
+            },
+            "quality": 95,
+            "price": 110000,
+            "buyPrice": 110000,
+            "auctionPrice": 90000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "144836306",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 2,
+                "특화": 490,
+                "신속": 499
+            },
+            "quality": 94,
+            "price": 115000,
+            "buyPrice": 115000,
+            "auctionPrice": 115000
+        }
+    ],
+    "각성_3_급소 타격_5_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "144852316",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 2000,
+            "buyPrice": null,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145803139",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145804694",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145506224",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 4500,
+            "buyPrice": 4500,
+            "auctionPrice": 4500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145759873",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145776541",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 280
+            },
+            "quality": 66,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146113560",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145564680",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 7000,
+            "buyPrice": 7000,
+            "auctionPrice": 7000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145463114",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 1,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "146159483",
+            "grade": 5,
+            "tradeLeft": 0,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 291
+            },
+            "quality": 85,
+            "price": 11000,
+            "buyPrice": 11000,
+            "auctionPrice": 11000
+        }
+    ],
+    "각성_3_급소 타격_5_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "144852316",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 1,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 2000,
+            "buyPrice": null,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145803139",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145804694",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145506224",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 4500,
+            "buyPrice": 4500,
+            "auctionPrice": 4500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145759873",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 274
+            },
+            "quality": 56,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145776541",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 280
+            },
+            "quality": 66,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146113560",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 2,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145564680",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 7000,
+            "buyPrice": 7000,
+            "auctionPrice": 7000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145463114",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 1,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "146159483",
+            "grade": 5,
+            "tradeLeft": 0,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 3,
+                "신속": 291
+            },
+            "quality": 85,
+            "price": 11000,
+            "buyPrice": 11000,
+            "auctionPrice": 11000
+        }
+    ],
+    "각성_3_급소 타격_5_반지1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "146208820",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 4500,
+            "buyPrice": 4500,
+            "auctionPrice": 4500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145605337",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145845105",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 3,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 반지",
+            "id": "145888017",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146192392",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 3,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 6666,
+            "buyPrice": 6666,
+            "auctionPrice": 6666
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145718809",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 7000,
+            "buyPrice": 7000,
+            "auctionPrice": 7000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 반지",
+            "id": "145697836",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146190354",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 1,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 8500,
+            "buyPrice": 8500,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 반지",
+            "id": "146132169",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 9000,
+            "buyPrice": 9000,
+            "auctionPrice": 9000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146092555",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 5000
+        }
+    ],
+    "각성_3_급소 타격_5_반지2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "146208820",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 4500,
+            "buyPrice": 4500,
+            "auctionPrice": 4500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145605337",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 4000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145845105",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 3,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 반지",
+            "id": "145888017",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 5000,
+            "buyPrice": 5000,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146192392",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "방어력 감소": 3,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 6666,
+            "buyPrice": 6666,
+            "auctionPrice": 6666
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145718809",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 7000,
+            "buyPrice": 7000,
+            "auctionPrice": 7000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 반지",
+            "id": "145697836",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 1,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146190354",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격력 감소": 1,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 8500,
+            "buyPrice": 8500,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 반지",
+            "id": "146132169",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "이동속도 감소": 2,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 9000,
+            "buyPrice": 9000,
+            "auctionPrice": 9000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146092555",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "급소 타격": 5,
+                "각성": 3,
+                "공격속도 감소": 2,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 10000,
+            "buyPrice": 10000,
+            "auctionPrice": 5000
+        }
+    ],
+    "축복의 오라_3_전문의_5_목걸이": [],
+    "축복의 오라_3_전문의_5_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "146064162",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "전문의": 5,
+                "이동속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 150000,
+            "buyPrice": 150000,
+            "auctionPrice": 130000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145815464",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "전문의": 5,
+                "방어력 감소": 3,
+                "신속": 300
+            },
+            "quality": 100,
+            "price": 240000,
+            "buyPrice": 240000,
+            "auctionPrice": 190000
+        }
+    ],
+    "축복의 오라_3_전문의_5_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "146064162",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "전문의": 5,
+                "이동속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 150000,
+            "buyPrice": 150000,
+            "auctionPrice": 130000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "145815464",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "전문의": 5,
+                "방어력 감소": 3,
+                "신속": 300
+            },
+            "quality": 100,
+            "price": 240000,
+            "buyPrice": 240000,
+            "auctionPrice": 190000
+        }
+    ],
+    "축복의 오라_3_전문의_5_반지1": [
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 반지",
+            "id": "145923849",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "전문의": 5,
+                "공격속도 감소": 1,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 190000,
+            "buyPrice": 190000,
+            "auctionPrice": 170000
+        }
+    ],
+    "축복의 오라_3_전문의_5_반지2": [
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 반지",
+            "id": "145923849",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "축복의 오라": 3,
+                "전문의": 5,
+                "공격속도 감소": 1,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 190000,
+            "buyPrice": 190000,
+            "auctionPrice": 170000
+        }
+    ],
+    "구슬동자_3_전문의_5_목걸이": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 목걸이",
+            "id": "145605188",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "특화": 493,
+                "신속": 450
+            },
+            "quality": 71,
+            "price": 43000,
+            "buyPrice": 43000,
+            "auctionPrice": 43000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "146007572",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "특화": 475,
+                "신속": 493
+            },
+            "quality": 84,
+            "price": 60000,
+            "buyPrice": 60000,
+            "auctionPrice": 60000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145730904",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "특화": 476,
+                "신속": 494
+            },
+            "quality": 85,
+            "price": 65000,
+            "buyPrice": 65000,
+            "auctionPrice": 60000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 목걸이",
+            "id": "146132732",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "특화": 494,
+                "신속": 482
+            },
+            "quality": 88,
+            "price": 70000,
+            "buyPrice": 70000,
+            "auctionPrice": 70000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145924861",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 1,
+                "특화": 499,
+                "신속": 484
+            },
+            "quality": 91,
+            "price": 70000,
+            "buyPrice": 70000,
+            "auctionPrice": 70000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 목걸이",
+            "id": "145587447",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 2,
+                "특화": 488,
+                "신속": 497
+            },
+            "quality": 92,
+            "price": 72000,
+            "buyPrice": 72000,
+            "auctionPrice": 72000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 목걸이",
+            "id": "146169406",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "특화": 494,
+                "신속": 488
+            },
+            "quality": 91,
+            "price": 73000,
+            "buyPrice": 73000,
+            "auctionPrice": 70000
+        }
+    ],
+    "구슬동자_3_전문의_5_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146043143",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 1,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145063581",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145593426",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 300,
+            "buyPrice": 300,
+            "auctionPrice": 300
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146001114",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 2,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "145627796",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1333
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "146200612",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "146036773",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145886441",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 283
+            },
+            "quality": 71,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 귀걸이",
+            "id": "146144155",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "146164069",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        }
+    ],
+    "구슬동자_3_전문의_5_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146043143",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 1,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145063581",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 100,
+            "buyPrice": 100,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145593426",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 300,
+            "buyPrice": 300,
+            "auctionPrice": 300
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146001114",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 2,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "145627796",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1333
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "146200612",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "146036773",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145886441",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 283
+            },
+            "quality": 71,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 악몽의 귀걸이",
+            "id": "146144155",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 285
+            },
+            "quality": 75,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "146164069",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        }
+    ],
+    "구슬동자_3_전문의_5_반지1": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145965271",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 300,
+            "buyPrice": null,
+            "auctionPrice": 300
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145562158",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 1,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 5000,
+            "buyPrice": null,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145666059",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 200
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145778589",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145850890",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146163221",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145540260",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 700,
+            "buyPrice": 700,
+            "auctionPrice": 700
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145593620",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 800,
+            "buyPrice": 800,
+            "auctionPrice": 800
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145818303",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "145936218",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 188
+            },
+            "quality": 70,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        }
+    ],
+    "구슬동자_3_전문의_5_반지2": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145965271",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 300,
+            "buyPrice": null,
+            "auctionPrice": 300
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145562158",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 1,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 5000,
+            "buyPrice": null,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145666059",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 200
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145778589",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145850890",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146163221",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 500,
+            "buyPrice": 500,
+            "auctionPrice": 500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145540260",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 181
+            },
+            "quality": 52,
+            "price": 700,
+            "buyPrice": 700,
+            "auctionPrice": 700
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145593620",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 800,
+            "buyPrice": 800,
+            "auctionPrice": 800
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "145818303",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "145936218",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "전문의": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 188
+            },
+            "quality": 70,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        }
+    ],
+    "각성_5_구슬동자_3_목걸이": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 목걸이",
+            "id": "146131488",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "특화": 483,
+                "신속": 466
+            },
+            "quality": 74,
+            "price": 45000,
+            "buyPrice": 45000,
+            "auctionPrice": 45000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145646675",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "특화": 498,
+                "신속": 461
+            },
+            "quality": 79,
+            "price": 55000,
+            "buyPrice": 55000,
+            "auctionPrice": 50000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "146104620",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 1,
+                "특화": 454,
+                "신속": 491
+            },
+            "quality": 72,
+            "price": 80000,
+            "buyPrice": 80000,
+            "auctionPrice": 70000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145829887",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 1,
+                "특화": 494,
+                "신속": 493
+            },
+            "quality": 93,
+            "price": 120000,
+            "buyPrice": 120000,
+            "auctionPrice": 100000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "144533390",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "특화": 493,
+                "신속": 499
+            },
+            "quality": 96,
+            "price": 130000,
+            "buyPrice": 130000,
+            "auctionPrice": 100000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145636358",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 1,
+                "특화": 484,
+                "신속": 496
+            },
+            "quality": 90,
+            "price": 150000,
+            "buyPrice": 150000,
+            "auctionPrice": 150000
+        }
+    ],
+    "각성_5_구슬동자_3_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146037597",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 283
+            },
+            "quality": 71,
+            "price": 25000,
+            "buyPrice": null,
+            "auctionPrice": 25000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "146140228",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 800,
+            "buyPrice": 800,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145610868",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145760849",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "146211158",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145774551",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "146146140",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "145938511",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "146076433",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 2,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146038706",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 2500,
+            "buyPrice": 2500,
+            "auctionPrice": 2500
+        }
+    ],
+    "각성_5_구슬동자_3_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146037597",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 283
+            },
+            "quality": 71,
+            "price": 25000,
+            "buyPrice": null,
+            "auctionPrice": 25000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "146140228",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 800,
+            "buyPrice": 800,
+            "auctionPrice": 100
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145610868",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "145760849",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "146211158",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 1000,
+            "buyPrice": 1000,
+            "auctionPrice": 1000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "145774551",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 귀걸이",
+            "id": "146146140",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 1500,
+            "buyPrice": 1500,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "145938511",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 공간의 귀걸이",
+            "id": "146076433",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 2,
+                "신속": 281
+            },
+            "quality": 68,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146038706",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 2500,
+            "buyPrice": 2500,
+            "auctionPrice": 2500
+        }
+    ],
+    "각성_5_구슬동자_3_반지1": [
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145629607",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 188
+            },
+            "quality": 70,
+            "price": 1,
+            "buyPrice": null,
+            "auctionPrice": 1
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145666605",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 1500,
+            "buyPrice": null,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "145608344",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 1,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 7000,
+            "buyPrice": null,
+            "auctionPrice": 7000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 반지",
+            "id": "146151388",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 198
+            },
+            "quality": 95,
+            "price": 10000,
+            "buyPrice": null,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146160109",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 700,
+            "buyPrice": 700,
+            "auctionPrice": 700
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146043909",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 999,
+            "buyPrice": 999,
+            "auctionPrice": 999
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145629767",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146173316",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "신속": 192
+            },
+            "quality": 80,
+            "price": 3800,
+            "buyPrice": 3800,
+            "auctionPrice": 3800
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146118244",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 3500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146174425",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 193
+            },
+            "quality": 82,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        }
+    ],
+    "각성_5_구슬동자_3_반지2": [
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145629607",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 3,
+                "신속": 188
+            },
+            "quality": 70,
+            "price": 1,
+            "buyPrice": null,
+            "auctionPrice": 1
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145666605",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 1500,
+            "buyPrice": null,
+            "auctionPrice": 1500
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "145608344",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 1,
+                "신속": 191
+            },
+            "quality": 77,
+            "price": 7000,
+            "buyPrice": null,
+            "auctionPrice": 7000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 반지",
+            "id": "146151388",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 198
+            },
+            "quality": 95,
+            "price": 10000,
+            "buyPrice": null,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 반지",
+            "id": "146160109",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 2,
+                "신속": 180
+            },
+            "quality": 50,
+            "price": 700,
+            "buyPrice": 700,
+            "auctionPrice": 700
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146043909",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 999,
+            "buyPrice": 999,
+            "auctionPrice": 999
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145629767",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "이동속도 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 2000,
+            "buyPrice": 2000,
+            "auctionPrice": 2000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146173316",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "공격력 감소": 2,
+                "신속": 192
+            },
+            "quality": 80,
+            "price": 3800,
+            "buyPrice": 3800,
+            "auctionPrice": 3800
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146118244",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 3500
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146174425",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "구슬동자": 3,
+                "방어력 감소": 3,
+                "신속": 193
+            },
+            "quality": 82,
+            "price": 4000,
+            "buyPrice": 4000,
+            "auctionPrice": 4000
+        }
+    ],
+    "각성_5_전문의_3_목걸이": [
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 목걸이",
+            "id": "146183974",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 3,
+                "특화": 493,
+                "신속": 453
+            },
+            "quality": 73,
+            "price": 55000,
+            "buyPrice": 55000,
+            "auctionPrice": 55000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 환상의 목걸이",
+            "id": "145822785",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "특화": 489,
+                "신속": 491
+            },
+            "quality": 90,
+            "price": 95000,
+            "buyPrice": 95000,
+            "auctionPrice": 85000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "146153012",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "특화": 483,
+                "신속": 492
+            },
+            "quality": 87,
+            "price": 100000,
+            "buyPrice": 100000,
+            "auctionPrice": 100000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145624594",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 1,
+                "특화": 487,
+                "신속": 490
+            },
+            "quality": 88,
+            "price": 110000,
+            "buyPrice": 110000,
+            "auctionPrice": 110000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145690904",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "특화": 493,
+                "신속": 499
+            },
+            "quality": 96,
+            "price": 120000,
+            "buyPrice": 120000,
+            "auctionPrice": 120000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 집행자의 목걸이",
+            "id": "145902007",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "특화": 496,
+                "신속": 492
+            },
+            "quality": 94,
+            "price": 130000,
+            "buyPrice": 130000,
+            "auctionPrice": 110000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145788713",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 1,
+                "특화": 499,
+                "신속": 486
+            },
+            "quality": 92,
+            "price": 130000,
+            "buyPrice": 130000,
+            "auctionPrice": 120000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 목걸이",
+            "id": "145881975",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 1,
+                "특화": 497,
+                "신속": 487
+            },
+            "quality": 92,
+            "price": 130000,
+            "buyPrice": 130000,
+            "auctionPrice": 120000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 목걸이",
+            "id": "145610978",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "특화": 499,
+                "신속": 496
+            },
+            "quality": 97,
+            "price": 130000,
+            "buyPrice": 130000,
+            "auctionPrice": 130000
+        }
+    ],
+    "각성_5_전문의_3_귀걸이1": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "145329166",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 277
+            },
+            "quality": 61,
+            "price": 3188,
+            "buyPrice": null,
+            "auctionPrice": 3188
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "146118832",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 2,
+                "신속": 291
+            },
+            "quality": 85,
+            "price": 25000,
+            "buyPrice": null,
+            "auctionPrice": 25000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146161440",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 6000,
+            "buyPrice": 6000,
+            "auctionPrice": 6000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "146153739",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 6666,
+            "buyPrice": 6666,
+            "auctionPrice": 6666
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146047601",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146195766",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "145971569",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 8480,
+            "buyPrice": 8480,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "145833592",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 2,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 8555,
+            "buyPrice": 8555,
+            "auctionPrice": 7777
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146179489",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 8800,
+            "buyPrice": 8800,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145717179",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 9000,
+            "buyPrice": 9000,
+            "auctionPrice": 9000
+        }
+    ],
+    "각성_5_전문의_3_귀걸이2": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 귀걸이",
+            "id": "145329166",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 277
+            },
+            "quality": 61,
+            "price": 3188,
+            "buyPrice": null,
+            "auctionPrice": 3188
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 귀걸이",
+            "id": "146118832",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 2,
+                "신속": 291
+            },
+            "quality": 85,
+            "price": 25000,
+            "buyPrice": null,
+            "auctionPrice": 25000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146161440",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 275
+            },
+            "quality": 58,
+            "price": 6000,
+            "buyPrice": 6000,
+            "auctionPrice": 6000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 예지의 귀걸이",
+            "id": "146153739",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 6666,
+            "buyPrice": 6666,
+            "auctionPrice": 6666
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146047601",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 273
+            },
+            "quality": 55,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146195766",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 278
+            },
+            "quality": 63,
+            "price": 8000,
+            "buyPrice": 8000,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 귀걸이",
+            "id": "145971569",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 272
+            },
+            "quality": 53,
+            "price": 8480,
+            "buyPrice": 8480,
+            "auctionPrice": 8000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 시간의 귀걸이",
+            "id": "145833592",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 2,
+                "신속": 270
+            },
+            "quality": 50,
+            "price": 8555,
+            "buyPrice": 8555,
+            "auctionPrice": 7777
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "146179489",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 2,
+                "신속": 279
+            },
+            "quality": 65,
+            "price": 8800,
+            "buyPrice": 8800,
+            "auctionPrice": 5000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 귀걸이",
+            "id": "145717179",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 3,
+                "신속": 276
+            },
+            "quality": 60,
+            "price": 9000,
+            "buyPrice": 9000,
+            "auctionPrice": 9000
+        }
+    ],
+    "각성_5_전문의_3_반지1": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145842205",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 1,
+                "신속": 195
+            },
+            "quality": 87,
+            "price": 24999,
+            "buyPrice": null,
+            "auctionPrice": 24999
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145907600",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 50000,
+            "buyPrice": null,
+            "auctionPrice": 50000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146041590",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146050402",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 2,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146117231",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 1,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145707544",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "145785525",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 2,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146003710",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 12499,
+            "buyPrice": 12499,
+            "auctionPrice": 12499
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145893483",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 13000,
+            "buyPrice": 13000,
+            "auctionPrice": 13000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146080360",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 14000,
+            "buyPrice": 14000,
+            "auctionPrice": 13000
+        }
+    ],
+    "각성_5_전문의_3_반지2": [
+        {
+            "isFixed": false,
+            "name": "울부짖는 혼돈의 반지",
+            "id": "145842205",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격속도 감소": 1,
+                "신속": 195
+            },
+            "quality": 87,
+            "price": 24999,
+            "buyPrice": null,
+            "auctionPrice": 24999
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "145907600",
+            "grade": 5,
+            "tradeLeft": 1,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 1,
+                "신속": 200
+            },
+            "quality": 100,
+            "price": 50000,
+            "buyPrice": null,
+            "auctionPrice": 50000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146041590",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "이동속도 감소": 3,
+                "신속": 190
+            },
+            "quality": 75,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146050402",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 2,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "146117231",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 1,
+                "신속": 184
+            },
+            "quality": 60,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 10000
+        },
+        {
+            "isFixed": false,
+            "name": "타락한 차원의 반지",
+            "id": "145707544",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 순례자의 반지",
+            "id": "145785525",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 2,
+                "신속": 183
+            },
+            "quality": 57,
+            "price": 12000,
+            "buyPrice": 12000,
+            "auctionPrice": 12000
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 파멸자의 반지",
+            "id": "146003710",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 187
+            },
+            "quality": 67,
+            "price": 12499,
+            "buyPrice": 12499,
+            "auctionPrice": 12499
+        },
+        {
+            "isFixed": false,
+            "name": "찬란한 구도자의 반지",
+            "id": "145893483",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "공격력 감소": 2,
+                "신속": 185
+            },
+            "quality": 62,
+            "price": 13000,
+            "buyPrice": 13000,
+            "auctionPrice": 13000
+        },
+        {
+            "isFixed": false,
+            "name": "울부짖는 영겁의 반지",
+            "id": "146080360",
+            "grade": 5,
+            "tradeLeft": 2,
+            "effects": {
+                "각성": 5,
+                "전문의": 3,
+                "방어력 감소": 3,
+                "신속": 186
+            },
+            "quality": 65,
+            "price": 14000,
+            "buyPrice": 14000,
+            "auctionPrice": 13000
+        }
+    ]
+}

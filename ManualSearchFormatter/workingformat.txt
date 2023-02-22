@@ -1,0 +1,335 @@
+{
+  "강령술_3_잡옵_3_목걸이": [
+    {
+      "isFixed": false,
+      "name": "necklace",
+      "id": "146019012",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "달인의 저력",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          500
+        ],
+        [
+          "특화",
+          500
+        ]
+      ],
+      "quality": 100,
+      "price": 100,
+      "buyPrice": 100,
+      "auctionPrice": 1
+    }
+  ],
+  "강령술_3_잡옵_3_귀걸이1": [
+    {
+      "isFixed": false,
+      "name": "ear1",
+      "id": "146019013",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "달인의 저력",
+          3
+        ],
+        [
+          "방어력 감소",
+          1
+        ],
+        [
+          "신속",
+          300
+        ]
+      ],
+      "quality": 100,
+      "price": 200,
+      "buyPrice": 200,
+      "auctionPrice": 2
+    },
+    {
+      "isFixed": false,
+      "name": "ear2",
+      "id": "146019014",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "달인의 저력",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          300
+        ]
+      ],
+      "quality": 100,
+      "price": 300,
+      "buyPrice": 300,
+      "auctionPrice": 3
+    },
+    {
+      "isFixed": false,
+      "name": "ear3",
+      "id": "146019014",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "달인의 저력",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          300
+        ]
+      ],
+      "quality": 100,
+      "price": 3,
+      "buyPrice": 3,
+      "auctionPrice": 3
+    }
+  ],
+  "강령술_3_잡옵_3_귀걸이2": [
+    {
+      "isFixed": false,
+      "name": "ear1",
+      "id": "146019013",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "달인의 저력",
+          3
+        ],
+        [
+          "방어력 감소",
+          1
+        ],
+        [
+          "신속",
+          300
+        ]
+      ],
+      "quality": 100,
+      "price": 200,
+      "buyPrice": 200,
+      "auctionPrice": 2
+    },
+    {
+      "isFixed": false,
+      "name": "ear2",
+      "id": "146019014",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "달인의 저력",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          300
+        ]
+      ],
+      "quality": 100,
+      "price": 300,
+      "buyPrice": 300,
+      "auctionPrice": 3
+    },
+    {
+      "isFixed": false,
+      "name": "ear3",
+      "id": "146019014",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "달인의 저력",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          300
+        ]
+      ],
+      "quality": 100,
+      "price": 3,
+      "buyPrice": 3,
+      "auctionPrice": 3
+    }
+  ],
+  "강령술_3_잡옵_3_반지1": [
+    {
+      "isFixed": false,
+      "name": "ring1",
+      "id": "146019015",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "두 번째 동료",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          200
+        ]
+      ],
+      "quality": 100,
+      "price": 400,
+      "buyPrice": 400,
+      "auctionPrice": 4
+    },
+    {
+      "isFixed": false,
+      "name": "ring2",
+      "id": "146019016",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "두 번째 동료",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          200
+        ]
+      ],
+      "quality": 100,
+      "price": 400,
+      "buyPrice": 400,
+      "auctionPrice": 4
+    }
+  ],
+  "강령술_3_잡옵_3_반지2": [
+    {
+      "isFixed": false,
+      "name": "ring1",
+      "id": "146019015",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "두 번째 동료",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          200
+        ]
+      ],
+      "quality": 100,
+      "price": 400,
+      "buyPrice": 400,
+      "auctionPrice": 4
+    },
+    {
+      "isFixed": false,
+      "name": "ring2",
+      "id": "146019016",
+      "grade": 5,
+      "tradeLeft": 2,
+      "effects": [
+        [
+          "강령술",
+          3
+        ],
+        [
+          "두 번째 동료",
+          3
+        ],
+        [
+          "이동속도 감소",
+          1
+        ],
+        [
+          "신속",
+          200
+        ]
+      ],
+      "quality": 100,
+      "price": 400,
+      "buyPrice": 400,
+      "auctionPrice": 4
+    }
+  ]
+}
