@@ -91,6 +91,10 @@ function App() {
     "Order of the Emperor": "황제의 칙령",
     "Lunar Voice": "달의 소리",
     "Hunger": "갈증",
+    "Master Summoner": "상급 소환사",
+    "Communication Overflow": "넘치는 교감",
+    "Full Bloom": "만개",
+    "Recurrence": "회귀",
     "Any": "잡옵",
   }
 
@@ -178,6 +182,10 @@ function App() {
     "황제의 칙령": "Order of the Emperor",
     "달의 소리": "Lunar Voice",
     "갈증": "Hunger",
+    "상급 소환사": "Master Summoner",
+    "넘치는 교감": "Communication Overflow",
+    "만개": "Full Bloom",
+    "회귀": "Recurrence",
     "잡옵": "Any"
   }
 
