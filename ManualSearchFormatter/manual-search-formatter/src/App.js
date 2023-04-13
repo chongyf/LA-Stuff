@@ -289,9 +289,19 @@ function App() {
     }
 
     var tempObj = JSON.parse(code)
+    console.log(tempObj)
+    tempObj = tempObj.sort((a, b) => {
+      console.log(JSON.stringify(a) > JSON.stringify(b))
+      return JSON.stringify(a) > JSON.stringify(b)
+    })
+    console.log(tempObj)
 
     // Update state
-    setSearchCombis(tempObj)
+    setSearchCombis(tempObj.sort((a, b) => {
+      var strA = JSON.stringify(a)
+      var strB = JSON.stringify(b)
+      return strA > strB ? 1 : (strB > strA ? -1 : 0)
+    }))
 
     const newOutput = {}
 
