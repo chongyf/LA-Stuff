@@ -1,19 +1,43 @@
-const EngravingInput = ({ text, typeUpdateFn1, valUpdateFn2, val2, engrs }) => {
+import { useState } from "react"
+
+const EngravingInput = ({ text, typeUpdateFn1, engrs }) => {
+
+  const [translated, setTranslated] = useState('')
+
+  const updateValue = (val) => {
+    setTranslated(engrs[val]);
+    typeUpdateFn1(val);
+  }
 
   return (
-    <p>
-      <label>{text}</label><br></br>
-      <select onChange={(e) => typeUpdateFn1(e.target.value)}>
-        {
-          Object.values(engrs).map((keyName, i) => (
-            <option key={keyName} value={keyName}>{keyName}</option>
-          ))
-        }
-
-      </select>
-      <input type='number' value={val2}
-        onChange={(e) => valUpdateFn2(e.target.value)}></input>
-    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>
+            {text}
+          </th>
+          <th>
+            Translated
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <select onChange={(e) => updateValue(e.target.value)}>
+              {
+                Object.keys(engrs).map((keyName, i) => (
+                  <option key={keyName} value={keyName}>{keyName}</option>
+                ))
+              }
+            </select>
+          </td>
+          <td>
+            {translated}
+          </td>
+        </tr>
+      </tbody>
+    </table>
   )
 }
 

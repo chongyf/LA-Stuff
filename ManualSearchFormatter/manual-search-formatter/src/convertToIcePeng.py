@@ -1,6 +1,8 @@
 import json
 from dataModule import getData
 from outputModule import getOutput
+from selectedStatModule import getDesiredStat
+from selectedEngrModule import getDesiredEngr
 
 # 1. Get engraving combinations from icepeng
 # 2. input into react
@@ -8,8 +10,11 @@ from outputModule import getOutput
 # 4. Update Desire Engravings, Stats here
 # 5. Copy the initial object from react into here
 
-desiredEngrs = ["Igniter", "All-Out Attack", "Grudge", "Hit Master", "Cursed Doll", "Adrenaline"]
-desiredStats = [16, 15]
+# desiredEngrs = ["Igniter", "All-Out Attack", "Grudge", "Hit Master", "Cursed Doll", "Adrenaline"]
+# desiredStats = [16, 15]
+# getDesiredEngr
+desiredEngrs = json.loads(getDesiredEngr())
+desiredStats = json.loads(getDesiredStat())
 
     # case 15: return ["치명", value] # crit
     # case 16: return ["특화", value] # spec

@@ -1,13 +1,20 @@
 import { useState } from 'react'
 import SearchCode from './components/SearchCode'
 import WhatToFind from './components/WhatToFind'
-import AddAccessory from './components/AddAccessory'
 import ConvertData from './components/AccInputBoxes/ConvertData'
+import DesiredEngrs from './components/DesiredEngrs'
+import DesiredStats from './components/DesiredStats'
+import raw from '../src/convertToIcePeng.py'
 
 function App() {
-  const [searchCombis, setSearchCombis] = useState([])
+  const [searchCombis, setSearchCombis] = useState([])  
+  const [selectedEngrs, setSelectedEngrs] = useState([
+    "", "", "", "", "", ""])
+  const [selectedStats, setSelectedStats] = useState([
+    0, 0, 0])
 
   const rMapping = {
+    "": "",
     "Adrenaline": "아드레날린",
     "All-Out Attack": "속전속결",
     "Awakening": "각성",
@@ -99,6 +106,7 @@ function App() {
   }
 
   const mapping = {
+    "": "",
     "아드레날린": "Adrenaline",
     "속전속결": "All-Out Attack",
     "각성": "Awakening",
@@ -190,12 +198,13 @@ function App() {
   }
 
   const statMapping = {
-    "crit": "치명",
-    "specialization": "특화",
-    "domination": "제압",
-    "swiftness": "신속",
-    "endurance": "인내",
-    "expertise": "숙련"
+    "": 0,
+    "crit": 15,
+    "specialization": 16,
+    "domination": 17,
+    "swiftness": 18,
+    "endurance": 19,
+    "expertise": 20
   }
 
   const malusMapping = {
@@ -235,74 +244,91 @@ function App() {
       }
     };
 
+    let getDesiredEngr = {
+      getDesiredEngr : function() {
+        return JSON.stringify(selectedEngrs)
+      }
+    }
+
+    let getDesiredStat = {
+      getDesiredStat : function() {
+        return JSON.stringify(selectedStats)
+      }
+    }
+
     const pyodide = await window.loadPyodide({
         indexURL: "https://cdn.jsdelivr.net/pyodide/v0.23.0/full/"
     });
 
-    const script = await fetch("./convertToIcePeng.py")
+    // console.log(raw)
+    const script = await fetch(raw)
+    // console.log(script)
     const scriptText = await script.text();
+    // console.log(scriptText)
 
     pyodide.registerJsModule("dataModule", getData)
     pyodide.registerJsModule("outputModule", getOutput)
+    pyodide.registerJsModule("selectedEngrModule", getDesiredEngr)
+    pyodide.registerJsModule("selectedStatModule", getDesiredStat)
 
     pyodide.runPythonAsync(scriptText);
   }
 
-  // Add Accessory
-  const addAcc = (newAcc) => {
+  // // Add Accessory
+  // const addAcc = (newAcc) => {
 
-    // Delete the second stat if not necklace
-    if (newAcc.type != "necklace") {
-      newAcc.effects.splice(4, 1)
-    }
+  //   // Delete the second stat if not necklace
+  //   if (newAcc.type != "necklace") {
+  //     newAcc.effects.splice(4, 1)
+  //   }
 
-    var temp = JSON.stringify(newAcc)
+  //   var temp = JSON.stringify(newAcc)
 
-    // Replace engraving translations
-    for (var key in rMapping) {
-      if (rMapping.hasOwnProperty(key)) {
-        temp = temp.replaceAll(key, rMapping[key])
-      }
-    }
+  //   // Replace engraving translations
+  //   for (var key in rMapping) {
+  //     if (rMapping.hasOwnProperty(key)) {
+  //       temp = temp.replaceAll(key, rMapping[key])
+  //     }
+  //   }
 
-    // Replace stat translations
-    for (var key in statMapping) {
-      if (statMapping.hasOwnProperty(key)) {
-        temp = temp.replaceAll(key, statMapping[key])
-      }
-    }
+  //   // Replace stat translations
+  //   for (var key in statMapping) {
+  //     if (statMapping.hasOwnProperty(key)) {
+  //       temp = temp.replaceAll(key, statMapping[key])
+  //     }
+  //   }
 
-    // Replace malus translations
-    for (var key in malusMapping) {
-      if (malusMapping.hasOwnProperty(key)) {
-        temp = temp.replaceAll(key, malusMapping[key])
-      }
-    }
+  //   // Replace malus translations
+  //   for (var key in malusMapping) {
+  //     if (malusMapping.hasOwnProperty(key)) {
+  //       temp = temp.replaceAll(key, malusMapping[key])
+  //     }
+  //   }
 
-    newAcc = JSON.parse(temp)
+  //   newAcc = JSON.parse(temp)
 
-    // Generate parent array string
-    var str = newAcc.effects[0][0] + "_" + newAcc.effects[0][1] +
-      "_" + newAcc.effects[1][0] + "_" + newAcc.effects[1][1] + "_" + typeMapping[newAcc.type]
+  //   // Generate parent array string
+  //   var str = newAcc.effects[0][0] + "_" + newAcc.effects[0][1] +
+  //     "_" + newAcc.effects[1][0] + "_" + newAcc.effects[1][1] + "_" + typeMapping[newAcc.type]
 
-    // Need to add 1 and 2
-    if (newAcc.type != "necklace") {
-      delete newAcc.type
-      var str1 = str.concat("1")
-      var str2 = str.concat("2")
+  //   // Need to add 1 and 2
+  //   if (newAcc.type != "necklace") {
+  //     delete newAcc.type
+  //     var str1 = str.concat("1")
+  //     var str2 = str.concat("2")
 
-      output[[str1]].push(newAcc)
-      output[[str2]].push(newAcc)      
+  //     output[[str1]].push(newAcc)
+  //     output[[str2]].push(newAcc)      
 
-    }
-    else
-    {      
-      delete newAcc.type
-      output[[str]].push(newAcc)
-    }
+  //   }
+  //   else
+  //   {      
+  //     delete newAcc.type
+  //     output[[str]].push(newAcc)
+  //   }
 
-    console.log(output)
-  }
+  //   console.log(output)
+  // }
 
   // Submit Code
   const addCode = (code) => {
@@ -368,10 +394,11 @@ function App() {
   return (
     <div className="App">
       <h1>Test</h1>
+      <DesiredEngrs engrMapping={rMapping} getEngr={selectedEngrs} setEngr={setSelectedEngrs} />
+      <DesiredStats stats={statMapping} getStats={selectedStats} setStats={setSelectedStats} />
       <SearchCode onAddCode={addCode} />
-      <ConvertData onSetObject={pythonExec} />
       <WhatToFind searchCombis={searchCombis} />
-      <AddAccessory onAddAcc={addAcc} engr={mapping} />
+      <ConvertData onSetObject={pythonExec} />
     </div>
   );
 }
