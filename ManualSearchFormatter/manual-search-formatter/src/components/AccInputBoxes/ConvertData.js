@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const InitialObject = ({ onSetObject }) => {
+const ConvertData = ({ onSetObject }) => {
   const [code, setCode] = useState("{}")
 
   const onSubmit = (e) => {
@@ -19,7 +19,7 @@ const InitialObject = ({ onSetObject }) => {
   return (
     <form onSubmit={onSubmit}>
       <div>
-        <label>Initial Object</label>
+        <label>Convert Data</label>
       </div>
       <div>
         <textarea rows="10" cols="100" value={code}
@@ -30,4 +30,4 @@ const InitialObject = ({ onSetObject }) => {
   )
 }
 
-export default InitialObject   
+export default ConvertData   

@@ -2,7 +2,7 @@ import { useState } from 'react'
 import SearchCode from './components/SearchCode'
 import WhatToFind from './components/WhatToFind'
 import AddAccessory from './components/AddAccessory'
-import InitialObject from './components/AccInputBoxes/InitialObject'
+import ConvertData from './components/AccInputBoxes/ConvertData'
 
 function App() {
   const [searchCombis, setSearchCombis] = useState([])
@@ -215,10 +215,22 @@ function App() {
   const [output, setOutput] = useState({})
 
   // Set Output Object
-  const onInitialObject = (code) => {
+  const onConvertData = (code) => {
     var tempObj = JSON.parse(code)
     setOutput(tempObj)
     console.log(tempObj)
+  }
+
+  async function pythonExec() {
+    const pyodide = await window.loadPyodide({
+        indexURL: "https://cdn.jsdelivr.net/pyodide/v0.23.0/full/"
+    });
+
+    const script = await fetch("./convertToIcePeng.py")
+    const scriptText = await script.text();
+    console.log(scriptText)
+
+    pyodide.runPythonAsync(scriptText);
   }
 
   // Add Accessory
@@ -280,6 +292,12 @@ function App() {
   // Submit Code
   const addCode = (code) => {
 
+    // Extract engraving array out from code
+    var pos = code.indexOf("getSearchResult([")
+    code = code.substring(pos + 16);
+    pos = code.indexOf("]")
+    code = code.substring(0, pos + 1)
+
     // Translate search string
     for (var key in mapping) {
       if (mapping.hasOwnProperty(key)) {
@@ -291,10 +309,8 @@ function App() {
     var tempObj = JSON.parse(code)
     console.log(tempObj)
     tempObj = tempObj.sort((a, b) => {
-      console.log(JSON.stringify(a) > JSON.stringify(b))
       return JSON.stringify(a) > JSON.stringify(b)
     })
-    console.log(tempObj)
 
     // Update state
     setSearchCombis(tempObj.sort((a, b) => {
@@ -338,7 +354,7 @@ function App() {
     <div className="App">
       <h1>Test</h1>
       <SearchCode onAddCode={addCode} />
-      <InitialObject onSetObject={onInitialObject} />
+      <ConvertData onSetObject={pythonExec} />
       <WhatToFind searchCombis={searchCombis} />
       <AddAccessory onAddAcc={addAcc} engr={mapping} />
     </div>
