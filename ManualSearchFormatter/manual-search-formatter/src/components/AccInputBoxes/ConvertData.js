@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 const ConvertData = ({ onSetObject }) => {
-  const [code, setCode] = useState("{}")
+  const [code, setCode] = useState("")
 
   const onSubmit = (e) => {
     e.preventDefault()

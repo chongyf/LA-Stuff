@@ -221,14 +221,29 @@ function App() {
     console.log(tempObj)
   }
 
-  async function pythonExec() {
+  async function pythonExec(data) {
+
+    let getData = {
+      getData : function() {
+        return data
+      }
+    };
+
+    let getOutput = {
+      getOutput : function() {
+        return JSON.stringify(output)
+      }
+    };
+
     const pyodide = await window.loadPyodide({
         indexURL: "https://cdn.jsdelivr.net/pyodide/v0.23.0/full/"
     });
 
     const script = await fetch("./convertToIcePeng.py")
     const scriptText = await script.text();
-    console.log(scriptText)
+
+    pyodide.registerJsModule("dataModule", getData)
+    pyodide.registerJsModule("outputModule", getOutput)
 
     pyodide.runPythonAsync(scriptText);
   }
