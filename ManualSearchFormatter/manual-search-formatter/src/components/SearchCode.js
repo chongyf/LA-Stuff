@@ -22,7 +22,7 @@ const SearchCode = ({ onAddCode }) => {
         <label>Search Code</label>
       </div>
       <div>
-        <textarea rows="10" cols="100" value={code}
+        <textarea rows="10" cols="70" value={code}
           onChange={(e) => setCode(e.target.value)} />
       </div>
       <input type='submit' value='Submit' />
