@@ -102,6 +102,8 @@ function App() {
     "Communication Overflow": "넘치는 교감",
     "Full Bloom": "만개",
     "Recurrence": "회귀",
+    "Predator": "포식자",
+    "Punisher": "처단자",
     "Any": "잡옵",
   }
 
@@ -194,6 +196,8 @@ function App() {
     "넘치는 교감": "Communication Overflow",
     "만개": "Full Bloom",
     "회귀": "Recurrence",
+    "포식자": "Predator",
+    "처단자": "Punisher",
     "잡옵": "Any"
   }
 
@@ -273,62 +277,6 @@ function App() {
 
     pyodide.runPythonAsync(scriptText);
   }
-
-  // // Add Accessory
-  // const addAcc = (newAcc) => {
-
-  //   // Delete the second stat if not necklace
-  //   if (newAcc.type != "necklace") {
-  //     newAcc.effects.splice(4, 1)
-  //   }
-
-  //   var temp = JSON.stringify(newAcc)
-
-  //   // Replace engraving translations
-  //   for (var key in rMapping) {
-  //     if (rMapping.hasOwnProperty(key)) {
-  //       temp = temp.replaceAll(key, rMapping[key])
-  //     }
-  //   }
-
-  //   // Replace stat translations
-  //   for (var key in statMapping) {
-  //     if (statMapping.hasOwnProperty(key)) {
-  //       temp = temp.replaceAll(key, statMapping[key])
-  //     }
-  //   }
-
-  //   // Replace malus translations
-  //   for (var key in malusMapping) {
-  //     if (malusMapping.hasOwnProperty(key)) {
-  //       temp = temp.replaceAll(key, malusMapping[key])
-  //     }
-  //   }
-
-  //   newAcc = JSON.parse(temp)
-
-  //   // Generate parent array string
-  //   var str = newAcc.effects[0][0] + "_" + newAcc.effects[0][1] +
-  //     "_" + newAcc.effects[1][0] + "_" + newAcc.effects[1][1] + "_" + typeMapping[newAcc.type]
-
-  //   // Need to add 1 and 2
-  //   if (newAcc.type != "necklace") {
-  //     delete newAcc.type
-  //     var str1 = str.concat("1")
-  //     var str2 = str.concat("2")
-
-  //     output[[str1]].push(newAcc)
-  //     output[[str2]].push(newAcc)      
-
-  //   }
-  //   else
-  //   {      
-  //     delete newAcc.type
-  //     output[[str]].push(newAcc)
-  //   }
-
-  //   console.log(output)
-  // }
 
   // Submit Code
   const addCode = (code) => {
